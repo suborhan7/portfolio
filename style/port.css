@@ -1,0 +1,30 @@
+/*nav styles*/
+
+.open-sans-use {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav{
+    display:flex;
+}
+.nav-title{
+    font: weight 800px;
+    font-size: 45px;
+
+}
+
+/*share style*/
+.rcolor{
+    color:#FD6E0A;
+}
+nav li a{
+    display:flex;
+    list-style: none;
+
+
+}
